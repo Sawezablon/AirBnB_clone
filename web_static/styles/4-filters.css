@@ -1,8 +1,8 @@
 /*
- * === Filter class style 
+ * === Filters class style ===
  */
 
-/* Filter Style */
+/* Filters style */
 .filters {
     background-color: #fff;
     border: 1px solid #ddd;
@@ -23,8 +23,8 @@
     margin: 12px 30px;
     width: 20%;
   }
-
-  /* Search button hover opacity change */
+  
+  /* Search button hover opacity */
   .filters button:hover {
-    background-color: rgba(255, 90, 95, .9);
+    opacity: 0.9;
   }
