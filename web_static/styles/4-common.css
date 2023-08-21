@@ -1,0 +1,20 @@
+/*
+ * === Common style ===
+ */
+
+ /* Common Style */
+ body {
+    font: 14px Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #484848;
+ }
+
+ /* Container class */
+ .container {
+    margin: 30px auto;
+    max-width: 1000px;
+ }
+
+ /* Strong Style */
+ strong {
+    font-weight: bold;
+ }
